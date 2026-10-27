@@ -1,8 +1,8 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
-  "name": "io.github.alex-dev-web-c-de/company-lookup-mcp",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Alex-Dev-Web-C-DE/company-lookup-mcp",
   "version": "0.1.0",
-  "description": "MCP server for legal entity and sanctions lookup by LEI or name.",
+  "description": "Company lookup MCP for LEI and sanctions.",
   "title": "Company Lookup MCP",
   "websiteUrl": "https://github.com/Alex-Dev-Web-C-DE/company-lookup-mcp",
   "repository": {
