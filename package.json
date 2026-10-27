@@ -1,16 +1,17 @@
 ﻿{
-  "name": "company-lookup-mcp",
-  "version": "0.1.0",
-  "type": "module",
-  "main": "src/index.js",
-  "scripts": {
-    "deploy": "wrangler deploy"
-  },
-  "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0",
-    "zod": "^3.23.0"
-  },
-  "devDependencies": {
-    "wrangler": "^3.0.0"
-  }
+    "name":  "company-lookup-mcp",
+    "version":  "0.1.0",
+    "type":  "module",
+    "main":  "src/index.js",
+    "scripts":  {
+                    "deploy":  "wrangler deploy"
+                },
+    "dependencies":  {
+                         "@modelcontextprotocol/sdk":  "^1.0.0",
+                         "zod":  "^3.23.0"
+                     },
+    "devDependencies":  {
+                            "wrangler":  "^3.0.0"
+                        },
+    "mcpName":  "io.github.alex-dev-web-c-de/company-lookup-mcp"
 }
