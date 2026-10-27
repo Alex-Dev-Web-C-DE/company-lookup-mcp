@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.alex-dev-web-c-de/company-lookup-mcp",
   "version": "0.1.0",
