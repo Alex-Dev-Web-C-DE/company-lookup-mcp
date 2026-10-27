@@ -1,0 +1,7 @@
+﻿name = "company-lookup-mcp"
+main = "src/index.js"
+compatibility_date = "2025-10-27"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+COMPLIANCE_API_URL = "https://compliance-engine.boring-saas-infra.workers.dev"
