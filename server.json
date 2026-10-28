@@ -1,18 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.Alex-Dev-Web-C-DE/company-lookup-mcp",
-  "version": "0.1.0",
-  "description": "Company lookup MCP for LEI and sanctions.",
-  "title": "Company Lookup MCP",
-  "websiteUrl": "https://github.com/Alex-Dev-Web-C-DE/company-lookup-mcp",
-  "repository": {
-    "url": "https://github.com/Alex-Dev-Web-C-DE/company-lookup-mcp",
-    "source": "github"
-  },
+  "title": "Company Lookup (GLEIF)",
+  "description": "GLEIF LEI and legal entity lookup for AI agents. 20K entities.",
+  "version": "1.0.0",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://company-lookup-mcp.boring-saas-infra.workers.dev/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/Alex-Dev-Web-C-DE/company-lookup-mcp",
+    "source": "github"
+  }
 }
